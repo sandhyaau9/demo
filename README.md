@@ -12,3 +12,13 @@
 |[![Account](https://raw.githubusercontent.com/sandhyaau9/demo/master/images/accounts.jpg "Account")](https://raw.githubusercontent.com/sandhyaau9/demo/master/images/accounts.jpg "Account")   | Accounts Project  |
 | Banking Project  |[![](https://raw.githubusercontent.com/sandhyaau9/demo/master/images/banking.jpg)](http://https://raw.githubusercontent.com/sandhyaau9/demo/master/images/banking.jpg)   |
 |[![](https://raw.githubusercontent.com/sandhyaau9/demo/master/images/energy.jpg)](http://https://raw.githubusercontent.com/sandhyaau9/demo/master/images/energy.jpg)   | Energy Project|
+
+
+
+
+```python
+for i in range(0,100,30)
+	print('hello')
+print('done')
+
+```
